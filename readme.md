@@ -7,7 +7,7 @@
 2. Goto todo-cli repository
 3. type python todo2.py
 ```
-![Todo app in action](/images/Todo.png)
+![Todo app in action](https://github.com/venkateshbellale/todo-cli/blob/master/images/Todo.PNG)
 
 ---
 
