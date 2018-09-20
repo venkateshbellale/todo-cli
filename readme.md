@@ -1,4 +1,4 @@
-# A Simple Todo list with cli :sparkels:
+# A Simple Todo list with cli :sparkles:
 
 ### How to use it ?
 
@@ -13,9 +13,9 @@
 
 #### Work to be done !
 
--[ ] Better UI.
--[ ] Sqlite db for storage.
--[ ] A Pwa for sync data across devices.
+- [ ] Better UI.
+- [ ] Sqlite db for storage.
+- [ ] A Pwa to sync data across devices.
  
 
  
