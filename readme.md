@@ -1,2 +1,2 @@
-#A Simple Todo list with cli
+# A Simple Todo list with cli
 
